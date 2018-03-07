@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Lab1IP2\.vs\Lab1IP2\lut\0\b\Tests\bin\Debug\rules.txt
+C:\Users\Stefan\source\repos\Lab1IP2\.vs\Lab1IP2\lut\0\b\Tests\bin\Debug\Tests.dll
+C:\Users\Stefan\source\repos\Lab1IP2\.vs\Lab1IP2\lut\0\b\Tests\bin\Debug\Tests.pdb
+C:\Users\Stefan\source\repos\Lab1IP2\.vs\Lab1IP2\lut\0\i\Tests\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\source\repos\Lab1IP2\.vs\Lab1IP2\lut\0\i\Tests\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Lab1IP2\.vs\Lab1IP2\lut\0\i\Tests\Debug\Tests.dll
+C:\Users\Stefan\source\repos\Lab1IP2\.vs\Lab1IP2\lut\0\i\Tests\Debug\Tests.pdb
